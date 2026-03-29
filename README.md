@@ -2,7 +2,7 @@
 **I'm studying Software Engineering at the University of Sydney**
 
 ---
-
+Third-year Software Engineering student. I focus on all sorts of areas through my study, such as Software Development through various methodologies, full-stack development, systems programming. Personally delving into the world of ML/AI and other aspects that personally interest me. 
 
 ---
 
